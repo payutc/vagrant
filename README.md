@@ -35,7 +35,7 @@ Future launches (using the same command) will be much quicker.
 
 ## Develop
 
-The latest code for the server and basic clients will be downloaded on the first boot in the `webroot/` directory. You are the responsible for keeping it up to date (have a look at the [git flow](https://github.com/payutc/server/wiki/git-flow) page on the server wiki).
+The latest code for the server and basic clients will be downloaded on the first boot in the `webroot/` directory. You are responsible for keeping it up to date (have a look at the [git flow](https://github.com/payutc/server/wiki/git-flow) page on the server wiki).
 
 The server URL is http://payutc.dev/server/web
 
