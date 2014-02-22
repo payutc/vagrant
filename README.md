@@ -19,7 +19,7 @@ Create a new directory, `cd` into it and clone this repository:
 
 To be able to access the development environment, you need to add the following line to your hosts file:
 
-    127.0.0.1 payutc.dev
+    192.168.56.121 payutc.dev
 
 This file is located at `/etc/hosts` on Linux or Mac OS and `%SystemRoot%\system32\drivers\etc\hosts` on Windows. You will need administrative privileges to edit it.
 
